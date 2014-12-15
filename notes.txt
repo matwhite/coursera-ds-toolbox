@@ -9,3 +9,4 @@ http://www.rstudio.com/products/rstudio/download-server/
 dpkg -i rstudio-0.98.1091-amd64.deb
 
 apt-get install r-bioc-genomicfeatures
+apt-get install r-cran-kernsmooth
