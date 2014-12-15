@@ -1,0 +1,11 @@
+http://cran.r-project.org/bin/linux/ubuntu/README
+
+sources.list:
+deb http://cran.cnr.berkeley.edu/bin/linux/ubuntu trusty/
+
+apt-get install r-base
+
+http://www.rstudio.com/products/rstudio/download-server/
+dpkg -i rstudio-0.98.1091-amd64.deb
+
+apt-get install r-bioc-genomicfeatures
